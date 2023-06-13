@@ -16,7 +16,7 @@ When you click an attack button:
 
 -  update _state_ variable(s) to make the Freaky Fungus lose hit points (HP), and to reduce your attack points (AP). 
 - See [Attacks](#attacks) below, for the AP and HP values of each attack
-- State may be held in one our more variables of your choosing
+- State may be held in one or more variables of your choosing
 - HP and AP values may not be negative (set to zero, if they would otherwise be negative)
 
 
